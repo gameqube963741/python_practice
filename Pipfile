@@ -41,6 +41,7 @@ jupyterlab = "*"
 beautifulsoup4 = "*"
 pytrends = "*"
 wordcloud = "*"
+pyquery = "*"
 
 [requires]
 python_version = "3.7.8"

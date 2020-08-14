@@ -10,7 +10,7 @@ headers = {
 }
 
 page_number = 20
-while page_number >= 20:
+while page_number <= 20:
     print(page_number)
     url = 'https://www.ptt.cc/bbs/joke/index.html'
     url = 'https://www.ptt.cc/bbs/joke/index9127.html'
