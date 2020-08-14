@@ -1,0 +1,16 @@
+作者asleepme (500年沒換暱稱了)看板MAC標題[麥書] 有實體esc的touchbar時間Thu Aug  6 13:59:57 2020
+Hi 第一次用有touch bar的macbook
+我的是2020有實體esc的touch bar
+有一個問題是，我按esc的時候會先取消touch bar的動作
+再按一次才是實際 esc的動作
+
+舉例來說
+再打中文的時候，touch bar會顯示待選字
+如果在enter前，我想要整個刪掉
+原本只要按一次esc就可以，現在變成要按2次
+第一次會把touch bar的待選字消掉
+第二次才把我螢幕上的待選字消掉
+
+有辦法esc一次就消掉嗎？
+
+--

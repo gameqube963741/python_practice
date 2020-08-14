@@ -1,0 +1,20 @@
+作者jamesxxx1997 (黃~)看板MAC標題[教學] 如何在macbookpro闔蓋的情況下用sidecar時間Tue Aug 11 18:40:13 2020
+1. 設備
+macbookpro 16 inch , 6核心 , raedon pro 5300 , 16gb RAM , 系統10.15.6
+ipad pro 2015 (初) , A9X , 4gb RAM , 系統13.4.1
+
+2. 使用場景：用sidecar讓ipad成為唯一的螢幕輸出(mbp盒蓋)
+sidecar在mbp盒蓋之後，會自己休眠，除了使用amphetimine這款app來防止
+mbp盒蓋自動休眠，也可以在mbp盒蓋之後，使用鼠標或其他藍芽設備來重新喚醒
+電腦，以使用sidecar
+
+
+注意：
+1. 記得在顯示器的排列方式介面，勾選"鏡像顯示器"
+
+2. 在藍芽設置裡，勾選"允許使用藍芽裝置來喚醒這台電腦"
+https://imgur.com/a/dRFmzRn
+
+
+
+--

@@ -1,0 +1,13 @@
+作者yeahygogo (Nowan)看板MAC標題[求救] 被search queuelocator.com綁架時間Fri Aug  7 01:36:29 2020
+
+這幾天不知道載到了什麼
+Chrome的搜尋引擎被強制替換成了search queuelocator
+會強制跳到yahoo的頁面
+沒辦法更換回原本的google搜尋引擎
+試過了重灌chrome和用malwarebytes掃毒還是沒有用
+
+超級焦慮的...
+-----
+Sent from JPTT on my iPhone
+
+--

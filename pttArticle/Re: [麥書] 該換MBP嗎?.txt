@@ -1,0 +1,33 @@
+作者l88 (188)看板MAC標題Re: [麥書] 該換MBP嗎?時間Thu Aug 13 09:54:40 2020
+※ 引述《w180112 ([NOOB]我超RETARD我超廢 )》之銘言：
+: 同感
+: 使用macOS寫code也很多年了
+: 平常用法是在MacBook上開發
+: 一開始是寫完code後再丟到RHEL/CentOS上compile跟run
+: 後來有了VScode搭配SSH extension直接連進去寫根本完美
+: MacBook上班用
+: iMac下班寫side project用
+: CentOS跟RHEL server各一台來跑程式用
+: 系統有問題就用BMC連進去server看
+: 總結：
+: macOS真的不錯
+: Unix based的Mach kernel穩定與Linux相容性又高
+: GUI就易用直覺
+: 寫code買mac就對惹
+
+  老大 如果我有錢到像你們還可以買桌機 或是Lab另外有Linux主機可以ssh
+
+我就不用上來問了阿...如果有其他機器跑Linux 那其實Win也可以用VScode ssh進去阿..
+
+Mac反而完全沒優勢吧XD  Win裡面的VScode也有shell阿 就他連到的Linux的shell
+
+(阿程式都在遠端了當然在遠端機器跑shell 本端沒啥需要跑shell...)
+
+而且我覺得VScode好用歸好用 還是要看語言啦 Python或是Java這種的
+
+我一開始也是用VScode 後來覺得還是JetBrain那種All in one的IDE功能比較齊XD
+
+
+總之我比較想知道如果只有一台Mac 跟一台Win來比 沒有其他機器的情況下 的差別XD
+
+--

@@ -44,7 +44,7 @@ headers = {
 for i in range(0,3):
     url = 'https://www.ptt.cc/bbs/joke/index.html'
 
-    res = requests.get(url, 'html.parsrt')
+    res = requests.get(url, headers = headers)
 
     soup = BeautifulSoup(res.text, 'html.parser')
 
@@ -57,7 +57,9 @@ for i in range(0,3):
         print()
 
     # 印出文章標題後要進入上一頁，找到標籤位置
-    last_page_url = soup.select('div[class="btn-group btn-group-pagong"]')[0]\
-                        .select('a')[1]['href']
-    last_page_url = 'https://www.ptt.cc' + last_page_url
-    url = last_page_url
+    # last_page_url = soup.select('div[class="btn-group btn-group-pagong"]')[0]\
+    #                     .select('a')[1]['href']
+    # last_page_url = 'https://www.ptt.cc' + last_page_url
+    # url = last_page_url
+
+    # page_number -= 1 

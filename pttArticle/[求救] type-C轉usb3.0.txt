@@ -1,0 +1,14 @@
+作者Leoooooooooo (小肥肥)看板MAC標題[求救] type-C轉usb3.0時間Mon Aug 10 19:20:06 2020
+請益各位
+家中電腦是MacBook air 2017 有兩個USB3.0插頭，
+最近想買HUB集線器（增加USB孔）
+市面上多半的豐富性高的HUB都是type-C頭
+也有賣type-c頭轉USB頭的轉接器
+轉接器本身是type-C母+USB公
+
+請問如果這樣插在mba上，hub的功能是否都正常呢
+（USB傳輸資料供電功能、記憶卡轉接、rj45、等等）
+
+謝謝大家。
+
+--

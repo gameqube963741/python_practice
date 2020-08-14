@@ -1,0 +1,13 @@
+作者rocky1975 (rocky)看板MAC標題[麥書] 請教2020 mbp 13" 原廠附的type-c傳輸線?時間Wed Aug 12 18:15:19 2020
+想請問各位2020 Macbook pro 13" 原廠附的type-c 充電(傳輸)線
+是否為thunderbolt 3 ? (猜APPLE應該是沒這麼佛心)
+
+用這條線接上Dockcase (充電 + USB-Hub + HDMI)
+看到的狀況有些妙~
+如果進入充電模式, USB-Hub上的裝置就會看不到
+如果看得到USB-Hub上的裝置, MBP就不會充電
+
+但~接上Dockcase附的較粗的充電傳輸線就可以同時充電+USB-Hub
+原廠附的這條線, 是只能充電/傳輸 二選一嗎?
+
+--

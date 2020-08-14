@@ -1,0 +1,20 @@
+作者gilbertpeng (GILBERT)看板MAC標題[求救] iMac 21.5 late 2012無法用macOS開機時間Mon Aug 10 13:07:27 2020
+大家好，我的iMac上週某日自動關機重啟之後，就卡在logo開機畫面動彈不得，進度條顯
+示跑完後動也不動。我本身有裝雙系統，反而使用windows可以開機，也跑的好好的。
+
+有試過各種方法修復，拔掉所有外接裝置，清除PRAM重置SMC等等，都沒有效果。安全模
+式也無法順利開機，想要重新安裝作業系統會卡在「正在檢查卷宗」的畫面，連按關機也
+不理我，要我長按開關才會強制關機。
+https://i.imgur.com/ehxppiX.jpg
+
+iMac 規格：
+iMac (21.5-inch, Late 2012)
+2.7 GHz Intel Core i5
+去年升級過硬碟和記憶體，換成Samsung 860 EVO 1TB SSD和16GB Kingston 1600Hz DDR3
+L
+
+想請問是否還有我沒試過的補救方法?
+
+(本來還想撐個兩三年的說，真的無解要抱去外面檢測了QQ）
+
+--

@@ -1,0 +1,19 @@
+作者badkyo520 (1987)看板MAC標題[求救] 換新mac後，finder的G drive檔案點不開時間Thu Aug  6 13:04:34 2020
+finder可以顯示google drive資料夾，舊的mac都可以正常使用，新的jpg檔可以打開，但
+是裡面的gsheet，google文件點兩下，圖示抖動一下，但沒有像以前會自動在chrome開啟
+。
+
+試過：
+a，把舊電腦中斷連結，新電腦重新登入google帳號
+b，新電腦中斷後重新更新雲端資料
+c，下載chrome離線開啟工具
+
+以上都沒有用，不知有沒有人在macbook舊換新的時候，google雲端硬碟有遇到類似的狀
+況。
+
+
+求解，感謝
+
+
+
+--
